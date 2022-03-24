@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[](Images/Project 1 Azure Diagram.png)
+[](Images/Diagram.png)
 
 
 
